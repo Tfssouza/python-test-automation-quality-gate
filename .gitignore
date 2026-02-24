@@ -9,3 +9,6 @@ venv/
 allure-results/
 allure-report/
 reports/
+# test reports
+reports/
+*.json
